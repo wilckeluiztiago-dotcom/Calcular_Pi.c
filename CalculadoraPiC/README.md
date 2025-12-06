@@ -12,7 +12,6 @@ Este projeto é uma implementação avançada em C de uma calculadora de Pi capa
 *   **Binary Splitting:** Técnica recursiva para somar a série de forma eficiente, maximizando o uso de multiplicação rápida.
 *   **Biblioteca BigInt Customizada:** Implementação própria de números inteiros gigantes, com suporte a operações básicas e avançadas.
 *   **Multiplicação FFT/NTT:** Estrutura preparada para multiplicação assintoticamente rápida $O(N \log N)$ usando Transformada Rápida de Fourier (simulada nesta versão para demonstração).
-*   **Variáveis em Português:** Todo o código fonte utiliza nomenclatura em português, conforme solicitado.
 
 ## Estrutura do Projeto
 
